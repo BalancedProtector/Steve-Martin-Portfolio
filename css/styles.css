@@ -115,6 +115,10 @@ main {
     text-align: center;
     align-items: center;
 }
+.social-media {
+    height: 45;
+    width: 45;
+}
 .footer-links {
     clear: both;
     display: flex;

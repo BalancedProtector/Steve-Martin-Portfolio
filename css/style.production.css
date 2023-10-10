@@ -125,6 +125,7 @@ main {
         grid-row: 1 / 4;
     }
 }
+
 .page-footer{
     clear: both;
     display: -webkit-box;
@@ -138,6 +139,10 @@ main {
     -webkit-box-align: center;
         -ms-flex-align: center;
             align-items: center;
+}
+.social-media {
+    height: 45;
+    width: 45;
 }
 .footer-links {
     clear: both;
